@@ -7,9 +7,13 @@ Results by city type:
 Facts by city type,
 
   Rural cities have the least amount of drivers, rides and total fares.
+  
   Urban cities have the most drivers, rides and total fares.
+  
   Suburban cities are in the middle having the 2nd most drivers, rides and total fares.
+  
   Rural cities see the least amount of drivers, rides and fares have the highest average fare per ride.
+  
   Although the Urban cities demands the most drivers, rides and fares, they have the lowest average fare per ride.
   
   <img width="629" alt="rides" src="https://user-images.githubusercontent.com/89948353/149046459-9dd54a65-2f68-49a3-a268-9f0446a880a3.png">
